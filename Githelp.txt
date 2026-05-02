@@ -1,0 +1,13 @@
+command to save your information:
+1) git config --global user.name "user name"
+2) git config --global user.email "user email"
+commands for only one project:
+3) git init     #initialization of git
+4) git remote add origin "link to your repository without quots"
+
+5) git status
+6) git add.
+7) git commit -m "name massage"
+8) git push origin master
+9) git commit -m "Remove file name"
+10) git log #to see whats happend
