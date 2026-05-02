@@ -64,5 +64,5 @@ print(Illidan.strength)
 Illidan.attack()
 print(Illidan.strength)
 Illidan.rest()
-print(Illidan.greet())HomeTask
+print(Illidan.greet())
 

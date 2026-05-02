@@ -6,7 +6,7 @@ commands for only one project:
 4) git remote add origin "link to your repository without quots"
 
 5) git status
-6) git add.
+6) git add
 7) git commit -m "name massage"
 8) git push origin master
 9) git commit -m "Remove file name"
