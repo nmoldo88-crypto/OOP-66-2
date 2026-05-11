@@ -1,0 +1,15 @@
+once:
+1) git config --global user.name "user.name"
+2) git config --global user.email "user.email"
+
+for one project:
+3) git init   - initialization git
+4) git remote add origin "link to repository"
+
+
+5) git status
+6) git add . or path to file
+7) git commit -m "name massage"
+8) git push origin master
+9) git restore . or path to file
+10) git reset . or path to file
