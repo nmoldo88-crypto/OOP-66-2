@@ -11,3 +11,4 @@ commands for only one project:
 8) git push origin master
 9) git commit -m "Remove file name"
 10) git log #to see whats happend
+11) git pull origin master --allow-unrelated-histories  # for merging remote and local gits.
